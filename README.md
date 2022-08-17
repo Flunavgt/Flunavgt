@@ -96,7 +96,8 @@
 </a>
 <!-- <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
-</a>  
+</a> 
+   <a href="mailto:fluna1973@gmail.com" class="myemail">fluna1973@gmail.com</a>
 </div>  
   
 
